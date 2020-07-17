@@ -1,5 +1,5 @@
 <a href="https://github.com/syfxlin?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=syfxlin&show_icons=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=syfxlin&show_icons=true&hide_border=true" width="45%" />
 </a>
 
 ### Hi there 👋
