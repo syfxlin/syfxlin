@@ -1,4 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=syfxlin&show_icons=true&hide_border=true" />
+<a href="https://github.com/syfxlin?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=syfxlin&show_icons=true&hide_border=true" />
+</a>
 
 ### Hi there 👋
 
