@@ -24,7 +24,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 
 📊 Visitor Count:
 
-&ensp;&ensp;&ensp;![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=syfxlin)
+&ensp;&ensp;&ensp;![Visitor Count](https://ixk.me/gh-count/)
 
 📕 Latest Blog Posts:
 
