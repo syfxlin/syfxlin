@@ -29,7 +29,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [浅谈 Proxy 和 Aop](https://blog.ixk.me/talking-about-proxy-and-aop.html?pk_campaign=feed&pk_kwd=talking-about-proxy-and-aop)
 - [从零实现一个 PHP 微框架 – 初始化请求](https://blog.ixk.me/implement-a-php-microframework-from-zero-6.html?pk_campaign=feed&pk_kwd=implement-a-php-microframework-from-zero-6)
 - [为 Vue3 添加一个简单的 Store](https://blog.ixk.me/add-simple-store-for-vue3.html?pk_campaign=feed&pk_kwd=add-simple-store-for-vue3)
-- [从零实现一个 PHP 微框架 – 服务提供者](https://blog.ixk.me/implement-a-php-microframework-from-zero-5.html?pk_campaign=feed&pk_kwd=implement-a-php-microframework-from-zero-5)
 <!-- BLOG-POST-LIST:END -->
