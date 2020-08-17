@@ -29,7 +29,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [浅谈并发：基础](https://blog.ixk.me/talking-about-concurrency-basics.html?pk_campaign=feed&pk_kwd=talking-about-concurrency-basics)
 - [浅谈缓存](https://blog.ixk.me/talking-about-cache.html?pk_campaign=feed&pk_kwd=talking-about-cache)
 - [无须定义类，Spring 快速注入 Json 参数](https://blog.ixk.me/spring-quickly-inject-json-parameters.html?pk_campaign=feed&pk_kwd=spring-quickly-inject-json-parameters)
-- [浅谈 Proxy 和 Aop](https://blog.ixk.me/talking-about-proxy-and-aop.html?pk_campaign=feed&pk_kwd=talking-about-proxy-and-aop)
 <!-- BLOG-POST-LIST:END -->
