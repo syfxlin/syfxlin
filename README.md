@@ -29,7 +29,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [聊聊写框架](https://blog.ixk.me/talk-about-writing-framework.html?pk_campaign=feed&pk_kwd=talk-about-writing-framework)
 - [聊聊现状-[2020-09]](https://blog.ixk.me/talk-about-the-status-quo-2020-09.html?pk_campaign=feed&pk_kwd=talk-about-the-status-quo-2020-09)
 - [浅谈并发：锁](https://blog.ixk.me/talking-about-concurrent-locks.html?pk_campaign=feed&pk_kwd=talking-about-concurrent-locks)
-- [浅谈并发：基础](https://blog.ixk.me/talking-about-concurrency-basics.html?pk_campaign=feed&pk_kwd=talking-about-concurrency-basics)
 <!-- BLOG-POST-LIST:END -->
