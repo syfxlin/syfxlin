@@ -29,7 +29,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [浅谈 EatWhatYouKill](https://blog.ixk.me/talk-about-eatwhatyoukill.html)
 - [浅谈可扩展线程池](https://blog.ixk.me/talk-about-scalable-thread-pool.html)
 - [聊聊写框架](https://blog.ixk.me/talk-about-writing-framework.html)
-- [聊聊现状-[2020-09]](https://blog.ixk.me/talk-about-the-status-quo-2020-09.html)
 <!-- BLOG-POST-LIST:END -->
