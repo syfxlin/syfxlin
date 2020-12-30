@@ -12,7 +12,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 
 🎉 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=fff) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=000) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+&ensp;&ensp;&ensp;![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=000) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
 ⚡ I like to use these  tools:
 
