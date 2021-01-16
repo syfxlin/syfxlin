@@ -29,7 +29,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [浅谈组合注解 & 注解别名](https://blog.ixk.me/talking-about-merged-annotation.html)
 - [[青空之蓝-2020]-迷茫](https://blog.ixk.me/my-2020-year-end-summary.html)
 - [Java 系列文章](https://blog.ixk.me/java-series-articles.html)
-- [HTTP 系列文章](https://blog.ixk.me/http-series-articles.html)
 <!-- BLOG-POST-LIST:END -->
