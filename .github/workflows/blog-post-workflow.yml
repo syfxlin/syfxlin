@@ -17,4 +17,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "3"
-          feed_list: "https://blog.ixk.me/feed/"
+          feed_list: "https://blog.ixk.me/rss.xml"
