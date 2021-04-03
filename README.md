@@ -29,7 +29,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [浅谈 JVM：类加载](https://blog.ixk.me/post/talking-about-jvm-classloader)
 - [浅谈 IO](https://blog.ixk.me/post/talking-about-io)
 - [浅谈并发：synchronized & ReentrantLock](https://blog.ixk.me/post/talking-about-concurrent-synchronized-and-reentrantlock)
-- [浅谈并发：CAS & AQS](https://blog.ixk.me/post/talking-about-concurrent-cas-and-aqs)
 <!-- BLOG-POST-LIST:END -->
