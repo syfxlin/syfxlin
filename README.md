@@ -25,7 +25,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [浅谈泛型擦除](https://blog.ixk.me/post/talking-about-type-erasure)
 - [浅谈单点登录](https://blog.ixk.me/post/talk-about-single-sign-on)
 - [使用 Kotlin 编写 Spring 测试](https://blog.ixk.me/post/writing-spring-tests-with-kotlin)
-- [设计模式系列文章](https://blog.ixk.me/post/design-pattern-series-articles)
 <!-- BLOG-POST-LIST:END -->
