@@ -1,5 +1,9 @@
 <a href="https://github.com/syfxlin?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=syfxlin&show_icons=true&hide_border=true" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=syfxlin&count_private=true&show_icons=true" />
+</a>
+
+<a href="https://profile.codersrank.io/user/syfxlin/">
+  <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=syfxlin&skills=Java,CSS,JSON,HTML,JavaScript,Kotlin,Less,PHP,Python,SCSS,Shell,TypeScript,Vue" />
 </a>
 
 ### Hi there 👋
