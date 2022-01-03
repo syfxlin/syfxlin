@@ -1,13 +1,11 @@
-name: Latest blog post workflow
-
+name: Update info workflow
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   schedule:
     # Runs every hour
     - cron: '0 0 * * *'
   workflow_dispatch:
-
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -18,3 +16,13 @@ jobs:
         with:
           max_post_count: "3"
           feed_list: "https://blog.ixk.me/rss.xml"
+  update-gist:
+    name: Update gist with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
+          GIST_ID: 968220c97e8da1d047a9a480fa432e54
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
