@@ -24,7 +24,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 
 📫 How to reach me: 
 
-&ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://blog.ixk.me-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.ixk.me) [![Telegram](https://img.shields.io/badge/-https://t.me/otstar-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/otstar) [![Twitter](https://img.shields.io/badge/-https://twitter.com/syfxlin-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/syfxlin) [![Email](https://img.shields.io/badge/-syfxlin@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:syfxlin@gmail.com)
+&ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://blog.ixk.me-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.ixk.me) [![Telegram](https://img.shields.io/badge/-https://t.me/otstar-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/otstar) [![Twitter](https://img.shields.io/badge/-https://twitter.com/syfxlin-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/syfxlin) [![Email](https://img.shields.io/badge/-i@ixk.me-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:syfxlin@gmail.com)
 
 📕 Latest Blog Posts:
 
