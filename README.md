@@ -29,7 +29,7 @@ I'm Otstar Lin. A indie software developer and a college student.
 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[青空之蓝-2023] - 色彩](https://blog.ixk.me/post/my-2023-year-end-summary)
 - [[青空之蓝-2022] - 平静](https://blog.ixk.me/post/my-2022-year-end-summary)
 - [[青空之蓝-2021] - 远望](https://blog.ixk.me/post/my-2021-year-end-summary)
-- [浅谈垃圾回收](https://blog.ixk.me/post/talking-about-garbage-collection)
 <!-- BLOG-POST-LIST:END -->
